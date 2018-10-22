@@ -1,0 +1,15 @@
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\BCS.Tests.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\BCS.Tests.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\BCS.App.exe
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\xunit.core.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\BCS.App.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\xunit.abstractions.xml
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\xunit.core.xml
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\obj\Debug\BCS.App.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\obj\Debug\BCS.Tests.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BCS\BCS.Tests\obj\Debug\BCS.Tests.pdb
