@@ -12,8 +12,8 @@ The contents on the associated output text is determined by whether it meets the
 
 ## What I've done
 
-The method is question can be viewed here -> https://github.com/scozzard/bcs-dotnet/blob/master/BCS.App/Services/GetNumbers.cs.
+The method in question can be viewed here -> https://github.com/scozzard/bcs-dotnet/blob/master/BCS.App/Services/GetNumbers.cs.
 
 The method has a whole bunch of associated unit tests, which can be viewed here -> https://github.com/scozzard/bcs-dotnet/blob/master/BCS.Tests/GetNumbers.Tests.cs.
 
-The method is accessed via a service from a console application. I chose to use a console application as it is a simple means to display the rendered output of the method. To run the console application, simply clone the repository and build the solution. NOTE: This solution was built in Visual Studio 2015.
+The method is accessed via a service class within a console application. I chose to use a console application as it is a simple means to display the rendered output of the method. To run the console application, simply clone the repository and build the solution. NOTE: This solution was built in Visual Studio 2015.
