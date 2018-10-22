@@ -1,6 +1,0 @@
-c:\users\scott\documents\visual studio 2015\Projects\BCS\BCS.App\bin\Debug\BCS.App.exe.config
-C:\Users\Scott\documents\visual studio 2015\Projects\BCS\BCS.App\bin\Debug\BCS.App.exe
-C:\Users\Scott\documents\visual studio 2015\Projects\BCS\BCS.App\bin\Debug\BCS.App.pdb
-C:\Users\Scott\documents\visual studio 2015\Projects\BCS\BCS.App\obj\Debug\BCS.App.csprojResolveAssemblyReference.cache
-C:\Users\Scott\documents\visual studio 2015\Projects\BCS\BCS.App\obj\Debug\BCS.App.exe
-C:\Users\Scott\documents\visual studio 2015\Projects\BCS\BCS.App\obj\Debug\BCS.App.pdb
